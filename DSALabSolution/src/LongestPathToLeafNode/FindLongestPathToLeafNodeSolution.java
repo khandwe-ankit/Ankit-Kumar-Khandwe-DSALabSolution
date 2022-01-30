@@ -1,4 +1,4 @@
-package LogestPathToLeafNode;
+package LongestPathToLeafNode;
 
 import java.util.ArrayList;
 
